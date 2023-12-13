@@ -1,0 +1,51 @@
+.header, .header * {
+  font-size: 14;
+}
+
+.header {
+  width: 1219px;
+  height: 108px;
+  padding-bottom: 87px;
+}
+
+.header__items {
+  align-items: center;
+  display: flex;
+  align-self: auto;
+  justify-content: space-around;
+  flex-direction: row;
+  height: 100%;
+}
+
+.header__logo {
+width: 115.43px;
+height: 60px;
+}
+
+.header__logo {
+  display: flex;
+}
+
+.header__pages {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__page_active {
+  margin: 0 30px;
+}
+
+.header__page {
+  margin: 0 30px;
+  color: #8C8B92;
+}
+
+.header__auth {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header__auth > * {
+  padding: 15px 28px;
+}

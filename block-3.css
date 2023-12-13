@@ -1,0 +1,72 @@
+.block-3 {
+  /* border: 2px solid rgb(15, 26, 150); */
+  position: relative;
+  height: 374px;
+  display: flex;
+  align-items: center;
+/* column-count: 2; */
+  /* display: flex; */
+  /* flex-direction: row; */
+  padding-bottom: 120px;
+}
+
+.block-3__textContainer {
+  position: relative;
+  /* top: 20px; */
+  width: 534px;
+  height: 220px;
+  /* border: 2px solid black; */
+  ;
+}
+
+.block-3__textServices {
+  color: #00A3CB;  
+}
+
+.block-3__travelContainer {
+  display: flex;
+  /* flex-direction: row; */
+  position: absolute;
+  
+  left: 500px;
+  /* border: 1px solid red; */
+  height: 374px;
+  width: 1170px;
+}
+
+.block-3__travel-child {
+  width: 370px;
+  /* border: 2px solid rgb(0, 106, 23); */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 20px;
+  border: none;
+}
+
+.block-3__travel-child_active {
+  width: 370px;
+  border: 2px solid #E0F2FF;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.block-3__travel-image {
+  width: 80px;
+}
+
+.block-3__travel-mainText {
+  text-align: center;
+  margin: 16px;
+}
+
+.block-3__travel-description {
+  text-align: center;
+  color: #8C8B92;
+}

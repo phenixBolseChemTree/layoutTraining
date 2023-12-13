@@ -1,0 +1,63 @@
+/* body {
+  background-color: red;
+} */
+
+* {
+  font-family: "circular-std-medium-500";
+  font-size: 18px;
+}
+
+h1, h1 * {
+  font-size: 69px;
+}
+
+h3 {
+  font-size: 44px;
+  line-height: 55.82px;
+  margin: 0;
+}
+
+h5 {
+  font-size: 28px;
+  line-height: 35.52px;
+  margin: 0;
+}
+
+h6 {
+  font-size: 23px;
+  line-height: 29.18px;
+  margin: 0;
+}
+
+.columns-2 {
+  column-count: 2;
+}
+
+
+.blue-text {
+  color: #00a2cb;
+}
+
+
+.absolute-element-1 {
+  /* display: block; */
+  width: 1457.18px;
+  height: 1431.79px;
+  background-color: #E0F2FF;
+  border-radius: 20px;
+  opacity: 30%;
+  z-index: -1;
+  top: 188px;
+  left: 2621.21px;
+  position: absolute;
+  transform: rotate(45deg);
+}
+
+@font-face {
+  /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
+  font-family: "circular-std-medium-500"; 
+  /* // адрес шрифта и тип  */
+  src: url("./fonts/circular-std-medium-500.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 

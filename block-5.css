@@ -1,0 +1,59 @@
+.block-5 {
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* border: 5px solid hsl(240, 83%, 44%); */
+position: absolute;
+}
+
+.block-5__mr-chill {
+  position: relative;
+  height: 770px;
+  width: 1075px;
+  right: 350px;
+}
+
+.block-5__info {
+  height: 488px;
+  width: 469px;
+  position: relative;
+  bottom: 650px;
+  left: 680px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* flex-direction: column; */
+}
+
+.block-5__travel-points {
+  color: #00A3CB;
+}
+
+.block-5__description {
+  color: #8C8B92;
+  line-height: 30px;
+}
+
+.block-5__price {
+  color: #E76A43;
+}
+
+.block-5__description {
+  color: #8C8B92;
+}
+
+.block-5__statistic-cards {
+display: flex;
+flex-direction: row;
+}
+
+.block-5__statistic-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 16px;
+  height: 146px;
+  width: 222px;
+  border: 2px solid #E8E8E9;
+  border-radius: 40px;
+}
