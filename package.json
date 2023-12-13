@@ -1,0 +1,15 @@
+{
+  "name": "layouttraining",
+  "version": "1.0.0",
+  "description": "## https://www.figma.com/file/39G8cIChPEDeZGZfrFvDCL/Travel---Landing-page-figma-template-(Community)?type=design&node-id=0-1&mode=design&t=5Q6aAJWMJExtNkbn-0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
