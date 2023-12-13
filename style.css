@@ -9,8 +9,14 @@ body {
   width: 1170px;
   height: 100%;
   margin: 0 auto;
+  overflow-x: hidden;
 } 
 
+@media screen and (max-width: 1170px) {
+  body {
+    overflow-x: auto; /* Показываем горизонтальный скролл при ширине экрана меньше или равной 1170px */
+  }
+}
 /* container */
 
 
