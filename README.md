@@ -4,5 +4,6 @@
 
 ## установи зависимости npm install
 
-## node server
- http://localhost:3000/
+## запусти сервер node server
+
+## зайди на порт http://localhost:3000/
