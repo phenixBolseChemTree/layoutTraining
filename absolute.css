@@ -1,0 +1,46 @@
+
+.absolute {
+  position: absolute;
+  top: 0;
+  /* left: 0; */
+}
+
+.absolute__world-image {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 1345px;
+  height: 656px;
+  top: 183px;
+  left: -90px;
+  z-index: -1;
+}
+
+/* .absolute__cube-1 {
+  position: absolute;
+width: 1457.18px;
+height: 1431.79px;
+top: 188px;
+left: 2621.21px;
+border-radius: 57px;
+
+background-color: #E0F2FF;
+transform: rotate(-48deg);
+z-index: -1;
+opacity: 0.3;
+}
+
+
+.absolute__cube-2 {
+  position: absolute;
+width: 499.72px;
+height: 491.02px;
+top: -242px;
+left: -116px;
+border-radius: 57px;
+
+background-color: #E0F2FF;
+transform: rotate(-42deg);
+z-index: -1;
+opacity: 0.3;
+} */
