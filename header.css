@@ -32,12 +32,14 @@ height: 60px;
 
 .header__page_active {
   margin: 0 30px;
+  color: inherit;
 }
 
 .header__page {
   margin: 0 30px;
   color: #8C8B92;
 }
+
 
 .header__auth {
   display: flex;
