@@ -5,6 +5,7 @@ body {
   margin: 0 auto;
   /* overflow-x: hidden; */
   font-family: "Circular Std";
+  line-height: 30px;
 } 
 
 h1, h1 * {
@@ -79,4 +80,10 @@ a {
   font-family: "Circular Std";
   src: url("./fonts/CircularStd-Bold.ttf") format("truetype");
   font-weight: 700;
+}
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./fonts/circular-std-medium-500.ttf") format("truetype");
+  font-weight: 500;
 }
