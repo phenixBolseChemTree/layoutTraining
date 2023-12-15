@@ -1,11 +1,11 @@
-/* body {
-  background-color: red;
-} */
 
-* {
-  font-family: "circular-std-medium-500";
-  font-size: 18px;
-}
+body {
+  width: 1170px;
+  height: 100%;
+  margin: 0 auto;
+  /* overflow-x: hidden; */
+  font-family: "Circular Std";
+} 
 
 h1, h1 * {
   font-size: 69px;
@@ -53,11 +53,26 @@ h6 {
   transform: rotate(45deg);
 }
 
-@font-face {
-  /* // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)  */
-  font-family: "circular-std-medium-500"; 
-  /* // адрес шрифта и тип  */
+/* @font-face {
+  font-family: "Circular Std"; 
   src: url("./fonts/circular-std-medium-500.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal; 
+  font-weight: 700; 
+}  */
+
+/* @font-face {
+  font-family: "Circular Std";
+  src: url("./fonts/circular-std-medium-500.ttf") format("truetype");
+  font-weight: 500;
+} */
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./fonts/CircularStd-Book.ttf") format("truetype");
+  font-weight: 450;
 } 
+
+@font-face {
+  font-family: "Circular Std";
+  src: url("./fonts/CircularStd-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
