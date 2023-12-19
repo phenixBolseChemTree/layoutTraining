@@ -87,6 +87,7 @@ box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25); /* Тень */
 }
 
 .block-4__star-count {
+  margin-right: 4px;
   color: #E76A43;
   font-weight: 700;
   line-height: 10px;

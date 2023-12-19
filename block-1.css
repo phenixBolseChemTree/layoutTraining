@@ -3,7 +3,6 @@
   /* margin-bottom: 122px; */
   width: 1163px;
   height: 632px;
-  column-count: 2;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -17,11 +16,12 @@
 }
 
 .block-1__global-btn {
+  margin-right: 8px;
   display: flex;
   flex-direction: row;
   align-items: center;
   background-color: white;
-  justify-content: space-around;
+  justify-content: center;
   border-radius: 100px;
   width: 216px;
   height: 56px;
@@ -32,6 +32,7 @@
 
 .block-1__image-global {
   width: 24px;
+  margin-right: 8px;
 }
 
 .block-1__specialText-colour {
@@ -59,6 +60,7 @@
   justify-content: space-evenly;
   border: 2px solid #E0F2FF;
   border-radius: 100px;
+  background-color: white;
 }
 
 .block-1__watchDemo-text { 
@@ -80,6 +82,7 @@
   border: none;
   margin-right: 28px;
   font-size: 14px;
+  box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25);
 }
 
 .block-1__Main-text {
@@ -129,6 +132,8 @@ justify-content: center;
   top: 262px;
   left: -19px;
   /* right: 19px; */
+  box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25);
+
 }
 
 .block-1__airplain-image {
@@ -146,6 +151,8 @@ justify-content: center;
   justify-content: center;
   top: 371px;
   left: 511px;
+  box-shadow: 0px 16px 32px 0px rgba(25, 24, 37, 0.1);
+
 }
 
 .block-1__location-image {

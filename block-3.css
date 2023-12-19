@@ -68,25 +68,34 @@
   border-radius: 20px;
 }
 
+
+
 .block-3__travel-image {
   /* width: 80px; */
   /* background-color: red; */
 
-background-color: #00A3CB0D;
-border-radius: 100px;
+/* background-color: #dcdfdf0d; */
+/* border-radius: 100px; */
 padding: 20px;
 }
 
 .block-3__travel-image_active {
-background-color: #00A3CB;
-border-radius: 100px;
 padding: 20px;
-box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25); 
 }
 
 .block-3__travel__card {
   width: 308px;
   height: 142px;
+}
+
+.block-3__image-container {
+  background-color: rgba(0, 163, 203, 0.05);
+  border-radius: 100px;
+}
+
+.block-3__image-container__active {
+  background-color: #00A3CB;
+  box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25); 
 }
 
 .block-3__travel-mainText {
