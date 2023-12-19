@@ -4,11 +4,11 @@ const path = require('path');
 const app = express();
 
 // Установка директории, где находится файл index.html
-app.use(express.static(path.join(__dirname, './')));
+app.use(express.static(path.join(__dirname, './', 'layout')));
 
 // Обработка запроса к файлу index.html
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, './', 'index.html'));
+  res.sendFile(path.join(__dirname, './', 'layout', 'index.html'));
 });
 
 // Запуск сервера на порту 3000
