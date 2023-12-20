@@ -188,13 +188,15 @@ justify-content: center;
   top: 0;
 }
 
-.block-1__world-image {
+.block-1__world-image-2 {
   position: absolute;
   display: flex;
   justify-content: center;
   width: 1345px;
   height: 656px;
-  top: 183px;
+  top: 190px;
   left: -90px;
   z-index: -1;
+  background-image: url("../assets/images/block_1/world-map.png"); /* Укажите путь к вашему изображению */
+  background-size: cover;
 }
