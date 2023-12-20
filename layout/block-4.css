@@ -1,7 +1,5 @@
 .block-4 {
   margin-bottom: 5px;
-  /* border: 3px solid red; */
-
 }
 
 .block-4__text-destinations {
@@ -37,11 +35,9 @@ font-size: 18px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  /* border: 3px solid red; */
 }
 
 .block-4__card {
-  /* border: 2px solid blue; */
   height: 379px;
   display: flex;
   flex-direction: column;
@@ -89,8 +85,6 @@ align-items: center;
 width: 32px;
 height: 32px;
 }
-
-
 
 .block-4__description-slider {
   display: flex;

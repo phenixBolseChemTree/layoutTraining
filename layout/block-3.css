@@ -1,22 +1,15 @@
 .block-3 {
-  /* border: 2px solid rgb(15, 26, 150); */
   position: relative;
   height: 374px;
   display: flex;
   align-items: center;
-/* column-count: 2; */
-  /* display: flex; */
-  /* flex-direction: row; */
   padding-bottom: 120px;
 }
 
 .block-3__text-container {
   position: relative;
-  /* top: 20px; */
   width: 534px;
   height: 220px;
-  /* border: 2px solid black; */
-  ;
 }
 
 .block-3__text-services {
@@ -36,11 +29,9 @@
 
 .block-3__travel-container {
   display: flex;
-  /* flex-direction: row; */
   position: absolute;
   
   left: 500px;
-  /* border: 1px solid red; */
   height: 374px;
   width: 1170px;
 }
