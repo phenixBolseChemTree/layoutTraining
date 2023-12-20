@@ -31,6 +31,7 @@ height: 700px;
 }
 
 .block-5__travel-points-discription {
+  margin: 0;
   font-size: 44px;
   line-height: 55.82px;
   font-weight: 700;
@@ -44,6 +45,7 @@ height: 700px;
 }
 
 .block-5__price {
+  margin: 0;
   color: #E76A43;
   font-size: 28px;
   line-height: 35.52px;

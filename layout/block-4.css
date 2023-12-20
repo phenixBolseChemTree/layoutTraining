@@ -12,7 +12,8 @@ font-weight: 500;
 font-size: 18px;
 }
 
-.block-4__textdiscription {
+.block-4__next-text-discription {
+  margin: 0;
   font-weight: 700;
   font-size: 44px;
   line-height: 55.82px;
@@ -52,6 +53,7 @@ font-size: 18px;
 }
 
 .block-4__card-text-dicriprion {
+  margin: 0;
   font-size: 23px;
   line-height: 29.18px;
   font-weight: 700;
@@ -123,6 +125,8 @@ height: 32px;
 }
 
 .block-4__price {
+  margin: 0;
+  font-size: 23px;
   color: #00A3CB;
   font-weight: 700;
   line-height: 29.18px;

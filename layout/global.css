@@ -1,40 +1,14 @@
 
 body {
   width: 1170px;
-  height: 100%;
   margin: 0 auto;
-  /* overflow-x: hidden; */
   font-family: "Circular Std";
-  /* line-height: 30px; */
 } 
-
-h1, h1 * {
-  font-size: 69px;
-}
-
-h3 {
-  font-size: 44px;
-  line-height: 55.82px;
-  margin: 0;
-}
-
-h5 {
-  font-size: 28px;
-  line-height: 35.52px;
-  margin: 0;
-}
-
-h6 {
-  font-size: 23px;
-  line-height: 29.18px;
-  margin: 0;
-}
 
 a {
   text-decoration: none;
   color: black;
 }
-
 
 .blue-text {
   color: #00a2cb;
@@ -44,7 +18,7 @@ a {
   font-family: "Circular Std";
   src: url("./assets/fonts/CircularStd-Book.ttf") format("truetype");
   font-weight: 450;
-} 
+}
 
 @font-face {
   font-family: "Circular Std";
