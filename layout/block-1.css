@@ -9,7 +9,7 @@
   padding-bottom: 112px;
 }
 
-.block-1__textBoard {
+.block-1__text-board {
   width: 494px;
   /* height: 519px; */
   /* border: 3px solid seagreen; */
@@ -35,7 +35,7 @@
   margin-right: 8px;
 }
 
-.block-1__specialText-colour {
+.block-1__special-text-colour {
   color: #00A3CB;
 }
 
@@ -63,7 +63,7 @@
   background-color: white;
 }
 
-.block-1__watchDemo-text { 
+.block-1__watch-demo-text { 
   font-size: 14px;
 }
 
@@ -72,7 +72,7 @@
   height: 24px;
 }
 
-.block-1__btn-getStarted {
+.block-1__btn-get-started {
   background-color: rgb(0,162,203);
   white-space: nowrap;
   color: #E0F2FF;
@@ -85,13 +85,13 @@
   box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25);
 }
 
-.block-1__Main-text {
+.block-1__main-text {
   line-height: 79px;
   margin: 0;
   font-weight: 700;
 }
 
-.block-1__imageBoard {
+.block-1__image-board {
   width: 576px;
   height: 632px;
   display: flex;

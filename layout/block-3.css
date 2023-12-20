@@ -10,7 +10,7 @@
   padding-bottom: 120px;
 }
 
-.block-3__textContainer {
+.block-3__text-container {
   position: relative;
   /* top: 20px; */
   width: 534px;
@@ -19,7 +19,7 @@
   ;
 }
 
-.block-3__textServices {
+.block-3__text-services {
   color: #00A3CB;  
   line-height: 28px;
   letter-spacing: 0.2em;
@@ -32,7 +32,7 @@
   font-weight: 700px;
 }
 
-.block-3__travelContainer {
+.block-3__travel-container {
   display: flex;
   /* flex-direction: row; */
   position: absolute;
@@ -98,7 +98,7 @@ padding: 20px;
   box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25); 
 }
 
-.block-3__travel-mainText {
+.block-3__travel-main-text {
   text-align: center;
   margin: 16px;
   line-height: 35.52px;
