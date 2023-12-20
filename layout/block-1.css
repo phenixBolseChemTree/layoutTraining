@@ -42,6 +42,8 @@
 .block-1__discription {
   line-height: 30px;
   color: #8C8B92;
+  font-size: 18px;
+  font-weight: 450;
 }
 
 .block-1__btn-group {

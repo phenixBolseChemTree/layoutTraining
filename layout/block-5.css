@@ -27,6 +27,7 @@ height: 700px;
   line-height: 28px;
   letter-spacing: 0.2em;
   font-weight: 500;
+  font-size: 18px;
 }
 
 .block-5__travel-points-discription {
@@ -38,6 +39,8 @@ height: 700px;
 .block-5__description {
   color: #8C8B92;
   line-height: 30px;
+  font-size: 18px;
+  font-weight: 450;
 }
 
 .block-5__price {
@@ -45,10 +48,6 @@ height: 700px;
   font-size: 28px;
   line-height: 35.52px;
   font-weight: 700;
-}
-
-.block-5__description {
-  color: #8C8B92;
 }
 
 .block-5__statistic-cards {

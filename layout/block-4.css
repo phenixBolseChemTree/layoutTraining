@@ -9,6 +9,7 @@ color: #00A3CB;
 line-height: 28px;
 letter-spacing: 0.2em;
 font-weight: 500;
+font-size: 18px;
 }
 
 .block-4__textdiscription {
@@ -100,6 +101,9 @@ box-shadow: 0px 16px 32px 0px rgba(0, 72, 123, 0.25); /* Тень */
 
 .block-4__location {
   color: #8C8B92;
+  font-size: 18px;
+  font-weight: 450;
+  line-height: 30px;
 }
 
 .block-4__price {

@@ -23,6 +23,7 @@
   color: #00A3CB;  
   line-height: 28px;
   letter-spacing: 0.2em;
+  font-size: 18px;
   font-weight: 500;
 }
 
@@ -90,5 +91,8 @@ padding: 20px;
 
 .block-3__travel-description {
   text-align: center;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 450;
   color: #8C8B92;
 }
