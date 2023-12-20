@@ -26,6 +26,10 @@
   color: #00487B;
 }
 
+.block-1__text-global {
+  margin-right: 8px;
+}
+
 .block-1__image-global {
   width: 24px;
   margin-right: 8px;
