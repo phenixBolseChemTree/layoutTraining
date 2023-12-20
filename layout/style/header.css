@@ -3,13 +3,16 @@
   width: 1219px;
   height: 108px;
   padding-bottom: 87px;
+  display: flex;
+  justify-content: center;
 }
 
 .header__items {
+  width: 1219px;
   align-items: center;
   display: flex;
   align-self: auto;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-direction: row;
   height: 100%;
 }
